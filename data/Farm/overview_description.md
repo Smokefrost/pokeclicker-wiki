@@ -1,3 +1,4 @@
+
 #### Jump to:
 * [Growing Berries](#growing)
 * [Farm Plots](#plots)
@@ -16,6 +17,8 @@ In the Farm, you can grow different types of [[Berries]], which can be [traded](
 
 The Farm is unlocked after reaching [[Routes/Kanto Route 11]] and obtaining the [Wailmer Pail](#!Key_Items).
 
+The default hotkey to open the Farm interface is **F**.
+
 ----
 
 ## Growing Berries {#growing}
@@ -33,7 +36,7 @@ The first eight Gen 1 Berries are dropped by wild Pokémon. More Berries can be 
 Growth time, harvest amounts, wither time, and replant rates can be [modified](#!Berries#stats).
 
 #### Mutating Berries
-*→ See: [Mutations](#!Berries#mutations)*
+*→ See: [Mutations](#!Berries#mutation)*
 
 Berries planted in certain configurations can mutate into new Berry species.
 
@@ -91,7 +94,7 @@ Farm Hands are helpers that can be hired to perform Farming tasks. They can be a
 #### Locking Plots from Interaction {#lockplots}
 Farm plots can be locked from interaction to prevent things like unwanted harvesting. Locked plots cannot be planted on, harvested, mulched, or shovelled. Berries on locked plots can still wither, mutate, be over taken by parasite berries, and have Wanderers collected from them. [[Farm Hands]] cannot harvest or plant in locked plots, but will still manage Wanderers if hired to do so.
 
-To lock a plot, click **[[File:farm/plotSafeLock.svg|18px]]**{.btn .btn-dark .btn-sm .disabled} and then click on a plot _or_ hold Shift and click on a plot.
+To lock a plot, click **[[File:farm/plotSafeLock.svg|18px]]**{.btn .btn-primary .btn-sm} and then click on a plot _or_ hold Shift and click on a plot.
 
-**Lock All**{.btn .btn-dark .btn-sm .disabled} locks all plots, **Unlock All**{.btn .btn-dark .btn-sm  .disabled} unlocks all plots, and **Flip**{.btn .btn-dark .btn-sm .disabled} reverses the locked/unlocked status of all plots.
+**All**{.btn .btn-primary .btn-sm} locks all plots, **None**{.btn .btn-primary .btn-sm} unlocks all plots, and **Flip**{.btn .btn-primary .btn-sm} reverses the locked/unlocked status of all plots.
 

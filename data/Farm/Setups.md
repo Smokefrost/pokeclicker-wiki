@@ -1,3 +1,4 @@
+
 ---- {#growth}
 
 ###### [Back to Top](#) {.text-end}
@@ -472,7 +473,7 @@ Copy & paste the line below into the [[Farm Simulator]]'s Import from Text.
 ### Chople + Babiri + Lum + Petaya
 This strategy uses [[Berries/Babiri]]'s aura to prevent mutation and [[Berries/Petaya]] for a longer uptime, and is the most efficient Egg Step setup when taking uptime into account.
 
-The free plot can be used for any other berry e.g. another [[Berries/Chople]] for more egg steps, a [[Berries/Haban]] for a longer lifespan or a [[Berries/Starf]] for a higher shiny aura.
+The free plot can be used for any other berry except [[Berries/Chople]] which would make [[Berries/Chilan]] mutations possible, e.g. a [[Berries/Haban]] for a longer lifespan or a [[Berries/Starf]] for a higher shiny aura.
 
 :::collapsed Chople + Babiri + Petaya + Lum - Farm Simulator Code
 Copy & paste the line below into the [[Farm Simulator]]'s Import from Text.
@@ -514,6 +515,25 @@ All planting times refer to the "Until Ripe" value of the first Berry planted.
 | [[File:Babiri.png\|32px]]  [[Berries/Babiri]] | `Planted First` | - | -|
 | [[File:Chople.png\|32px]]  [[Berries/Chople]] | 09:00:00 (using Petaya), 10:00:00 (no Petaya) | 06:00:00 (using Petaya), 06:40:00 (no Petaya) | 04:00:00 (using Petaya), 04:26:40 (no Petaya) |
 [[File:Lum.png\|32px]] [[Berries/Lum]] | 11:59:59 (using Petaya), 01:00:00 (no Petaya) | 07:59:59 (using Petaya), 00:40:00 (no Petaya)  | 5:19:59 (using Petaya), 00:26:40 (no Petaya) |
+
+### TRUE Infinite Chople Farm
+In order for this to be Infinite, it requires the use of [[Farm Hands/Alex]] set on Replant of the Petayas, which are planted with at least a 24 hour offset so that one Petaya is always up, while the Colbur prevents any Kasibs from spawning upon wither. [[Farm Hands/Charlie]] on Farm Wanderers makes the setup gain Farm Points, making it Truly Infinite.
+
+:::collapsed True Infinite Farm - Farm Simulator Code
+Copy & paste the line below into the [[Farm Simulator]]'s Import from Text.
+
+`eyJzYXZlIjp7ImZhcm1pbmciOnsicGxvdExpc3QiOlt7ImJlcnJ5Ijo0MSwiYWdlIjo3MjAwMCwibXVsY2giOi0xfSx7ImJlcnJ5Ijo0MSwiYWdlIjo3MjAwMCwibXVsY2giOi0xfSx7ImJlcnJ5Ijo1MSwiYWdlIjoxMjk2MDAsIm11bGNoIjotMX0seyJiZXJyeSI6NDEsImFnZSI6NzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NDEsImFnZSI6NzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NDEsImFnZSI6NzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6MTksImFnZSI6NDMyMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NDEsImFnZSI6NzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NDEsImFnZSI6NzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6MTksImFnZSI6NDMyMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NTEsImFnZSI6MTI5NjAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjQxLCJhZ2UiOjcyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjQxLCJhZ2UiOjcyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjQxLCJhZ2UiOjcyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjQxLCJhZ2UiOjcyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjQxLCJhZ2UiOjcyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjQxLCJhZ2UiOjcyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjQxLCJhZ2UiOjcyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjUxLCJhZ2UiOjEyOTYwMCwibXVsY2giOi0xfSx7ImJlcnJ5Ijo2NCwiYWdlIjo0MzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NDEsImFnZSI6NzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6MTksImFnZSI6NDMyMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NDEsImFnZSI6NzIwMDAsIm11bGNoIjotMX0seyJiZXJyeSI6NjQsImFnZSI6NDMyMDAwLCJtdWxjaCI6LTF9LHsiYmVycnkiOjUwLCJhZ2UiOjU0MDAwLCJtdWxjaCI6LTF9XX19fQ==`
+:::
+***Egg Step Bonus: 2.575x***
+
+::: table-mutations
+| :----: | :----: | :----: | :----: | :----: |
+| [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Babiri.png\|32px]] [[Berries/Babiri]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | |
+| [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Lum.png\|32px]] [[Berries/Lum]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Lum.png\|32px]] [[Berries/Lum]] | |
+| [[File:Babiri.png\|32px]] [[Berries/Babiri]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | |
+| [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Babiri.png\|32px]] [[Berries/Babiri]] | [[File:Petaya.png\|32px]] [[Berries/Petaya]] | |
+| [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Lum.png\|32px]] [[Berries/Lum]] | [[File:Chople.png\|32px]] [[Berries/Chople]] | [[File:Petaya.png\|32px]] [[Berries/Petaya]] | [[File:Colbur.png\|32px]] [[Berries/Colbur]] | |
+:::
 
 ---- {#shiny}
 
@@ -661,6 +681,9 @@ Berry | Planting Time with No Modifier | Planting Time with Mulch/Sprayduck | Pl
 [[File:Lum.png\|32px]] [[Berries/Lum]] | 11:59:59 (using Petaya), 01:00:00 (no Petaya) | 07:59:59 (using Petaya), 00:40:00 (no Petaya)  | 5:19:59 (using Petaya), 00:26:40 (no Petaya) |
 
 
+
+
+
 ---- {#evs}
 
 ###### [Back to Top](#) {.text-end}
@@ -755,7 +778,7 @@ Copy & paste the line below into the [[Farm Simulator]]'s Import from Text.
 All planting times refer to the "Until Ripe" value of the first Berry planted.
 | Berry                                         | Planting Time | Planting Time (Mulch or Sprayduck)    | Planting Time (Mulch and Sprayduck)   |
 | :---:                                         | :---:         | :---:                                 | :---:                                 |
-| [[File:Occa.png\|32px]] [[Berries/Occa]]      | `Planted First` | | |
+| [[File:Kebia.png\|32px]] [[Berries/Kebia]]      | `Planted First` | | |
 | [[File:Sitrus.png\|32px]] [[Berries/Sitrus]]  | 00:10:00      | 00:06:40                              | 00:04:27                              |
 
 ### Mutating Persim (Active Strategy)
@@ -773,6 +796,16 @@ The way this setup works is: [[Berries/Colbur]], being a Parasite Berry, overtak
 There are 2 plots where the player can plant whatever they want. In this example, [[Berries/Payapa]] was used since it has Mutation Chance up aura. Other recommended berry is [[Berries/Haban]] to make Petaya live longer.
 
 Purple spots are where the player is meant to harvest the berry and replace with more Cheri. Note that if a Colbur overtakes a Cheri at a stage different from Berry (ripe), it's highly recommended to shovel it and plant another Cheri there. Also, it's recommended to equip [[Oak Items/Squirtbottle]] as it increases mutation chance.
+
+
+You can make this setup semi passive by hiring Farm Hands to harvest and plant periodically, only requiring the occasional dig. It makes around 300k Farm Points per hour. [[Berries/Petaya]] is required.
+
+Harvesters: 1 or 2 with a lower Work Speed set to only harvest. Charlie + Bailey works well for this as they can cover all [[Berries/Colbur]] spots (designate 10 to Charlie and the rest to Bailey). Alternatively Riley or Kerry at 0 energy essentially have a 5/7 minute Work Speed, but this requires waiting for 0 energy or spending 280k/95k farm points firing and hiring (while performing an action each time, can be done by planting Cheris in increments and timing the fire/hire).
+
+Planter: Set to only plant Cheris. Jessie is usually the best for this as the 1 minute work speed can easily sync up every Harvester cycle.
+
+Make sure to time the hiring so that the Planter work cycle always ticks a few seconds after the Harvesters.
+
 
 :::collapsed Colbur Nonsense - Farm Simulator Code
 Copy & paste the line below into the [[Farm Simulator]]'s Import from Text.

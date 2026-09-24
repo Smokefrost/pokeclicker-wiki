@@ -1,3 +1,4 @@
+
 ----
 
 ## Berry Auras {#aura}
@@ -15,7 +16,7 @@ Aura | Effect | Range of Effect | Notes | Berries that Emit Aura
 **Harvest Amount** | Changes the number of berries obtained on harvest/wither | Adjacent ripe berries | Effect is multiplicative and stacks with Rich Mulch. | @[[Berries/Passho]] @[[Berries/Tanga]]
 **Growth Rate** | Changes growth time | Adjacent berries | Effect is multiplicative and stacks with Sprayduck and Boost Mulch effects. | @[[Berries/Wacan]]
 **Decay Rate** | Changes wither time | Adjacent ripe berries | Effect is multiplicative and stacks with Death aura, Sprayduck, and Boost Mulch effects. | @[[Berries/Yache]] @[[Berries/Haban]]
-**Replant Chance** | Changes the chance that berries will replant itself after withering | Adjacent berries | Effect is multiplicative and stacks with Sprinklotad. |  @[[Berries/Charti]] @[[Berries/Shuca]]
+**Replant Chance** | Changes the chance that berries will replant itself after withering | Adjacent berries | Effect is multiplicative. |  @[[Berries/Charti]] @[[Berries/Shuca]]
 **Mutation Chance** | Changes the chance that plots will mutate a berry if possible | Adjacent plots | Effect is multiplicative and stacks with Squirtbottle and Surprise Mulch effects. | @[[Berries/Kebia]] @[[Berries/Payapa]] @[[Berries/Babiri]]
 **Kasib Prevention** | Prevents berries from mutating into Kasib berries when they wither. | Entire field | A single berry with this ability will affect the entire field. | @[[Berries/Colbur]]
 **Wither Prevention** | Prevents other berries from withering while this berry is ripe | Entire field | A single berry with this ability will affect the entire field. Does not affect other berries that emit Wither prevention. Once this berry withers or is harvested other berries will reset their timers from the beginning of the Ripe stage. | @[[Berries/Petaya]]
@@ -24,7 +25,8 @@ Aura | Effect | Range of Effect | Notes | Berries that Emit Aura
 **Attract Aura** | Modifies the chance of Pokémon wandering onto the farm | Global | Effect is multiplicative over the whole field. | @[[Berries/Roseli]] @[[Berries/Micle]]
 **Roamer Chance** | Increases chance of finding Roaming Pokémon on routes | Global | Effect is multiplicative over the whole field. | @[[Berries/Jaboca]]
 **EV Gain** | Increases amount of EVs gained in all applicable situations. | Global | Effect is multiplicative over the whole field. | @[[Berries/Rowap]]
-**Exp Gain** | Increases experience points gained after defeating an encounter | Global | Effect is multiplicative over the whole field. | @[[Berries/Custap]]
+**Exp Gain** | Increases [[Experience]] points gained after defeating an encounter | Global | Effect is multiplicative over the whole field. | @[[Berries/Custap]]
+**Pickup** | Increases the chance that a defeated Pokémon drops its [rare hold item](#!Rare_Hold_Items) | Global | Effect is multiplicative over the whole field. Effect stacks with the [[Items/Dowsing Machine]]. | @[[Berries/Rindo]]
 
 ----
 
